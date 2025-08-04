@@ -1,6 +1,12 @@
 ---
 ---
 
+> Every reading of every poem, regardless of language, is an act of translation: translation into the reader's intellectual and emotional life. As no individual reader remains the same, each reading becomes a different — not merely another — reading. The same poem cannot be read twice.
+>
+> The poem continues in a state of restless change.
+> 
+> — Eliot Weinberger
+
 ## What Right Have I — 2403
 
 ### Prologue
