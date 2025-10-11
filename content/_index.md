@@ -1,0 +1,14 @@
+---
+---
+
+> I remember most of all, though, the first wail — the first recognition of loss and the first wail of despair and pain that rang out into the night — and the bright arc of a firework soaring into the sky, bursting, and then the sudden disappearance as the show was canceled.
+>
+> I remember hearing the wail, seeing the sparks and then sudden dark, and then stepping to my room to hide under my desk, letting flow tears of confusion, frustration, and terror.
+
+What Right Have I's life is wrapped in the comfort of texts and surrounds the rhythm of interpretation. Having set aside her title of rabbi and taken up that of the scholar of Beth Tikvah, her life is one of routine and familiarity, of a life dedicated to reveling in neurodivergence. She is the one who *lets* herself dwell in hyperfixation and releases the onus of optics.
+
+What, then, is one such as her to do when confronted with the end of the world but try her best?
+
+-----
+
+***Kaddish* is being released serially [here](https://read.post-self.ink/kaddish)!**
