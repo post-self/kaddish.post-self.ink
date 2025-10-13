@@ -1,6 +1,8 @@
 ---
 ---
 
+![An illuminated manuscript page of a skunk writing, complete with gold leaf](/wrhi-write.png)
+
 > I remember most of all, though, the first wail — the first recognition of loss and the first wail of despair and pain that rang out into the night — and the bright arc of a firework soaring into the sky, bursting, and then the sudden disappearance as the show was canceled.
 >
 > I remember hearing the wail, seeing the sparks and then sudden dark, and then stepping to my room to hide under my desk, letting flow tears of confusion, frustration, and terror.
@@ -11,4 +13,4 @@ What, then, is one such as her to do when confronted with the end of the world b
 
 -----
 
-***Kaddish* is being released serially [here](https://read.post-self.ink/kaddish)!**
+*Kaddish* is being serialized on the [Post-Self WriteFreely instance](https://read.post-self.ink/kaddish). You may read it as it is released there; when the book is completed and published, the full thing will be made available as paperback, ebook, and free to read in the browser here.
