@@ -1,7 +1,7 @@
 ---
 ---
 
-![An illuminated manuscript page of a skunk writing, complete with gold leaf](/wrhi-write.png)
+<!--![An illuminated manuscript page of a skunk writing, complete with gold leaf](/wrhi-write.png)-->
 
 > I remember most of all, though, the first wail — the first recognition of loss and the first wail of despair and pain that rang out into the night — and the bright arc of a firework soaring into the sky, bursting, and then the sudden disappearance as the show was canceled.
 >
