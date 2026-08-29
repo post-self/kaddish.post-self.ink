@@ -23,6 +23,3 @@ jobs:
       - name: Build site
         run: |
           hugo build --gc --minify --baseURL https://kaddish.post-self.ink --destination /opt/hugo/kaddish.post-self.ink
-
-      - name: Set permissions
-        run: chown -R www-data:www-data /opt/hugo/kaddish.post-self.ink
